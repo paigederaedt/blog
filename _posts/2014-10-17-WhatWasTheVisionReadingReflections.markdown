@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'What was the vision?' Reading Reflections [CTOT]"
-date:   2014-10-16 21:43:47
+date:   2014-10-17 21:43:47
 categories: jekyll update
 ---
 
