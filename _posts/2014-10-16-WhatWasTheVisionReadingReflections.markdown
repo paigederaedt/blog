@@ -2,7 +2,7 @@
 layout: post
 title:  "'What was the vision?' Reading Reflections [CTOT]"
 date:   2014-10-16 21:43:47
-categories: critical theory of technology
+categories: jekyll update
 ---
 
 This is my first reading reflection post for my Critical Theory of Technology [CTOT] class. The reading that provoked the most thought for me this week was Mindstorms by Seymour Papert. (maybe also because it was the longest…) 

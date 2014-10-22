@@ -2,7 +2,7 @@
 layout: post
 title:  "First Studio Day"
 date:   2014-10-07 21:43:47
-categories: daily post
+categories: jekyll update
 ---
 Today was considered our first studio day. Taeyoon started the day with a check in and went over all the events that SFPC will be participating in this term. All seem really awesome. He encourages us to present at some but not all of them, and I know I'll have to push myself out of my comfort zone in order to do this. I spent some time looking at the generative design book which has a bunch of processing tutorials - I focused on the text section and worked through some fun stuff. 
 

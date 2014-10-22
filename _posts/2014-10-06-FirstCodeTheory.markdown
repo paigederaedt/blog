@@ -2,7 +2,7 @@
 layout: post
 title:  "Ramsey's First Class"
 date:   2014-10-06 21:43:47
-categories: daily post
+categories: jekyll update
 ---
 This was Ramsey's first teaching day. He spent some time going over what he had planned for his class called ['Radical Computer Science'](http://radicalcomputerscience.tumblr.com/) and also went over his prior and current work. He studies the politics of code by focusing on the more meta stuff, like creating his own coding languages. He really helped me think about code in a way that the creator would by forcing us to understand the decisions that are made in writing a new language. He has created an arabic coding language as well as God.js, which I really enjoyed.
 

@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Ida: the 'Experience Designer'*"
+date:   2014-10-15 21:43:47
+categories: jekyll update
+---
+Ida introed her work to us for check in this morning. She started by telling us to pick a partner. We were to follow that partner around outside, but in a way that no one else on the street would notice. When our partner stopped walking, we would switch roles, so that the follower became the leader. We were to do this for 12 minutes and switch roles at least 3 times during that period. Rachel and I were partners - we did pretty well, and only lost each other once at the end...we weren't totally in line with how to handle stopping for a cross walk. Ida challenged us to think about what we noticed that we wouldn't normally notice when we walk down the street every day, and how we can learn something about ourselves and others through this.
+
+She then continued to introduce her work as an Experience Designer - and by Experience Designer, I don't mean what you would normally think of. She designs adventures for a carefully chosen group of people in highly researched locations. I don't know if my explanation will do her work justice, but here's a try explaining a project where she created a speakeasy in a water tower: The guest list consisted just of her team and friends at first, but then continued to change. Each guest was given the opportunity to purchase admission for another individual as a gift. This gift came in the form of a pocketwatch that had very simple directions along the line of 'call this number to make a reservation'. Each pocketwatch ticket would admit two people. Over time, people passed on these pocketwatch admission tickets to their closest and most respected friends. After 7 months, celebrities started showing up so they had to shut it down before the secret was let out as everything happening was illegal. That's just one awesome example, but check out her [website](http://uncommonplaces.com) for more.
+
+Ramsey's class was next. We reviewed our brainfuck assignments...it's super hard to write in. I figured out one trick and used that for pretty much everything, but here's what I created:
+
+**My name in brainfuck:**
+````
+++++++++[>++[>+++++<-]<-]>>.
+>+++++++++++[>+++[>+++<-]<-]>>--.
+>+++++[>++++[>+++++>+++++>+++++<<<-]<-]>>+++++.>+++.>+.
+````
+
+**'I love you!':**
+````
++++++++[>++[>+++++<-]<-]>>+++.
+>++++[>++++++++<-]>.
+>+++++++++++[>+++++[>++>++>++>++<<<<-]<-]
+>>--.>+.>++++++++.>---------.
+>++++[>++++++++<-]>.
+>++++++++++++[>+++++[>++>++>++<<<-]<-]>>+.>---------.>---.
+>++++[>++++++++<-]>+.
+````
+
+**Counting from 1-10:**
+````
+++++[>+++[>++++>>>>++++>>++++>>++++>>++++>>+++++>>+++++>>+++++>>+++++<<<<<<<<<<<<<<<<<<<-]<-]>>+.
+>++[>++++[>++++>>++++>>++++>>++++>>++++>>++++>>++++>>++++>>++++>>++++<<<<<<<<<<<<<<<<<<<-]<-]
+>>.>++.>.>+++.>.>++++.>.>+++++.>.>------.>.>-----.>.>----.>.>---.>.
+>>>++++[>+++[>++++>++++<<-]<-]>>+.>.
+````
+
+Check out this [interpreter](http://copy.sh/brainfuck/) if you want to give it a try!
+
+We continued to talk about how to start writing our own programming languages. Ramsey introduced us to the tool that he made called [plt.js](https://github.com/nasser/pltjs) that lets you create your own language on top of javascript using grammars.
