@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Zach is back!"
+date:   2014-10-20 21:43:47
+categories: jekyll update
+---
+Today was Zach's first day back teaching after getting back from a project in Amsterdam. I was really excited for him to come back as I really want to learn some open frameworks from him. He started with check in where we talked with him about what we want to learn and what he feels comfortable teaching.
+
+We then continued to go over some more of plt.js with Ramsey. We're going to be writing out own languages really soon! One idea I already have is the concept of adding words, based on some linguistic concept - maybe sentiment? Adding two words will give you another with a sentiment value that equals the addition of the sentiment values for the two words. All mathematical operations could apply. Maybe you can have keywords for what kind of sentiment results you would want: objective vs subjective or positive vs negative. Andrew also showed us his game that he made with [puzzlescript](http://www.puzzlescript.net/) that was pretty hilarious: [Fuck it](http://www.puzzlescript.net/play.html?p=91738939e15e393acd70). I really want to make one that has to do with cats...we'll see.
+
+Zach started his intro to open frameworks at the end of the day. We went over it's story, philosophy, and basic usage which served as intro to his class on animation!

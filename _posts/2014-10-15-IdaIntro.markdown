@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ida: the 'Experience Designer'*"
+title:  "Ida: the 'Experience Designer' and Brainfuck*"
 date:   2014-10-15 21:43:47
 categories: jekyll update
 ---
@@ -10,14 +10,15 @@ She then continued to introduce her work as an Experience Designer - and by Expe
 
 Ramsey's class was next. We reviewed our brainfuck assignments...it's super hard to write in. I figured out one trick and used that for pretty much everything, but here's what I created:
 
-**My name in brainfuck:**
+**My name in brainfuck:**  
 ````
 ++++++++[>++[>+++++<-]<-]>>.
 >+++++++++++[>+++[>+++<-]<-]>>--.
 >+++++[>++++[>+++++>+++++>+++++<<<-]<-]>>+++++.>+++.>+.
 ````
+  
 
-**'I love you!':**
+**'I love you!':**  
 ````
 +++++++[>++[>+++++<-]<-]>>+++.
 >++++[>++++++++<-]>.
@@ -27,14 +28,16 @@ Ramsey's class was next. We reviewed our brainfuck assignments...it's super hard
 >++++++++++++[>+++++[>++>++>++<<<-]<-]>>+.>---------.>---.
 >++++[>++++++++<-]>+.
 ````
+  
 
-**Counting from 1-10:**
+**Counting from 1-10:**  
 ````
 ++++[>+++[>++++>>>>++++>>++++>>++++>>++++>>+++++>>+++++>>+++++>>+++++<<<<<<<<<<<<<<<<<<<-]<-]>>+.
 >++[>++++[>++++>>++++>>++++>>++++>>++++>>++++>>++++>>++++>>++++>>++++<<<<<<<<<<<<<<<<<<<-]<-]
 >>.>++.>.>+++.>.>++++.>.>+++++.>.>------.>.>-----.>.>----.>.>---.>.
 >>>++++[>+++[>++++>++++<<-]<-]>>+.>.
 ````
+  
 
 Check out this [interpreter](http://copy.sh/brainfuck/) if you want to give it a try!
 
