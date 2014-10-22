@@ -2,7 +2,7 @@
 layout: post
 title:  "First Day at the School for Poetic Computation"
 date:   2014-10-01 21:43:47
-categories: daily post
+categories: post-content
 ---
 
 Today was my  first day at the School for Poetic Computation [SFPC], and it was amazing! It started with basic mingling and administration stuff, but I can't articulate my excitement for what's in the works. One of the founders, Zach Lieberman, said 'We work for you' which was surprising, awesome, and extremely refreshing. The amount of ownership we have in this research experiment is pretty empowering. Zach and the other founder, Taeyoon, handpicked this amazing bunch of indivuals which I'm very proud, intimidated, and lucky to be a part of. Everyone is friendly and diverse, coming from a huge range of experience levels, backgrounds, and locations. There are a few students who are coming to America for the first time for SFPC - and I can't even fathom what that's like - kudos to you guys! I am surrounded by so many extremely talented artists, designers, coders, and makers, and I'm incredibly excited to learn from all of them. I hope that I can contribute some perspective and expertise as well!
