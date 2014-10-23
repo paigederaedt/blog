@@ -13,7 +13,7 @@ We finished the class by watching ['All Watched Over by Machines of Loving Grace
 This weekend will also be really busy: a bunch of us plan to go to the opening of Eyebeam and Zan and I are also going to the Robotic Church on Saturday. On Sunday, Zan, Rachel, and I are planning to go to the Brooklyn Museum.
 
 Here are some photos from the trips:  
-<img src="../assets/eyebeam.jpg" alt="kites" style="width:350px">
+<img src="http://paigederaedt.github.io/blog/assets/eyebeam.jpg" alt="kites" style="width:350px">
 <img src="../assets/lunch.jpg" alt="thai iced tea" style="width:350px"> 
  
 <img src="../assets/brookmuseumkites.jpg" alt="kites" style="width:350px">
