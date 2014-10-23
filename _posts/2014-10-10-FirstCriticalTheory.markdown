@@ -11,3 +11,13 @@ Allison's first [Critical Theory of Technology](https://github.com/allisonburtch
 We finished the class by watching ['All Watched Over by Machines of Loving Grace'](https://vimeo.com/38724174) which really got me thinking. It was a pretty depressing film and I'm still not quite sure how to process it all/what to think - maybe I'll have to watch it again...
 
 This weekend will also be really busy: a bunch of us plan to go to the opening of Eyebeam and Zan and I are also going to the Robotic Church on Saturday. On Sunday, Zan, Rachel, and I are planning to go to the Brooklyn Museum.
+
+Here are some photos from the trips:  
+<img src="../assets/eyebeam.jpg" alt="kites" style="width:350px">
+<img src="../assets/lunch.jpg" alt="thai iced tea" style="width:350px"> 
+ 
+<img src="../assets/brookmuseumkites.jpg" alt="kites" style="width:350px">
+<img src="../assets/brookmuseumswamp.jpg" alt="swamp" style="width:350px">  
+
+<img src="../assets/brookmuseummap.jpg" alt="map" style="width:350px">
+<img src="../assets/brookmuseumsky.png" alt="sky" style="width:350px">  
