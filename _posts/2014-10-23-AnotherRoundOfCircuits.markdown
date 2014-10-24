@@ -33,4 +33,4 @@ After circuits class, [David Horvitz](http://www.davidhorvitz.com/) came to spea
 
 We then ended the day with a family dinner. Franc cooked some spanish omelettes for everyone which were AMAZING. We then had a little mini surprise celebration for his birthday coming up! Happy Birthday Franc!!!!
 
-![Spanish omelette]({{site.baseurl}}/assets/spanishomlette.png)
+![Spanish omelette]({{site.baseurl}}/assets/spanishomlette.jpg)
