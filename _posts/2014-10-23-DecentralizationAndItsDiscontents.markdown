@@ -30,6 +30,10 @@ Before reading this, I didn't really know what Bitcoin was, even though I've hea
 
 - OMG MATH, I need to dig into this in more detail (nerd moment)! I'm really interested in the specifics of how it works! 
 
+>'Bitcoin as a global payment system anyone can use from anywhere at any time can be a powerful catalyst to extend the benefits of the modern economic system to virtually everyone on the planet.'
+
+- This seems great at first glance, but knowing the little that I know about bitcoin, you need technology to access it. What about those people that don't have access to technology like we do? The article mentioned that bitcoin could be beneficial to impoverished countries and the poor, but how will they even get access to it?
+
 Bitcoin basically seems like a no bullshit way to perform transactions. It hides just enough but also gives us just enough. Right now, I'm liking bitcoin, but I know I still have a lot to learn about how it really works.
 
 Check out the readings for this week:   
