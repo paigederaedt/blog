@@ -24,8 +24,9 @@ We can see that the least significant digit resembles the output for an XOR gate
 We also spent some time creating AND, OR, NOR, and XOR gates using only the chip with NANDS:
 
 <img src="http://paigederaedt.github.io/blog/assets/andfromnands.jpg" alt="AND from NANDS" style="width:350px">
-<img src="http://paigederaedt.github.io/blog/assets/orfromnands.jpg" alt="OR from NANDS" style="width:350px">
-<img src="http://paigederaedt.github.io/blog/assets/norfromnands.jpg" alt="NOR from NANDS" style="width:350px">  
+<img src="http://paigederaedt.github.io/blog/assets/orfromnands.jpg" alt="OR from NANDS" style="width:350px">  
+
+<img src="http://paigederaedt.github.io/blog/assets/norfromnands.jpg" alt="NOR from NANDS" style="width:350px">
 <img src="http://paigederaedt.github.io/blog/assets/xorfromnands.jpg" alt="XOR from NANDS" style="width:350px">
 
 After circuits class, [David Horvitz](http://www.davidhorvitz.com/) came to speak for an artist talk. He's a super chill guy and his work is very playful. I think my favorite piece he talked about was called 'Public Access'. 'Public Access' included taking a road trip up the west coast and taking a picture of himself at all of the public access beaches. He took the photo so that only his back is showing. When he was done with the road trip, he went to the wikipedia pages for each location he visited and inserted the picture he took on the beach of himself into the article. Eventually Wikipedia found out what he was doing and ended up banning him from Wikipedia. He also focuses a lot of his work on the concept of time. One example is a project in which he sailed to the line where the pacific time zone ends and took water from the time zone border. He then recreated the time zone border in a few galleries. Overall, pretty interesting and hilarious stuff!
