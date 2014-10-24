@@ -36,8 +36,10 @@ Before reading this, I didn't really know what Bitcoin was, even though I've hea
 
 Bitcoin basically seems like a no bullshit way to perform transactions. It hides just enough but also gives us just enough. Right now, I'm liking bitcoin, but I know I still have a lot to learn about how it really works.
 
+After today's discussion, I realize that there are still a lot of political, social, economical issues that can and do arise from bitcoin use that I need to dive into more. I did agree with Jonas's point though, that just because people are misusing it, doesn't mean it can't be considered a nice idea.
+
 Check out the readings for this week:   
-[Protocol]({{site.baseurl}}/assets/protocol.pdf): Alexander Galloway  
+Protocol: Alexander Galloway  
 [21 Technologies That Will Decentralize the World](http://www.shareable.net/blog/21-technologies-that-will-decentralize-the-world)  
 [The Tyranny of Structurelessness](http://www.historyisaweapon.com/defcon1/tyrstruct.html): Jo Freeman  
 [Why Bitcoin Matters](http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_php=true&_type=blogs&_r=0): March Andreesen  

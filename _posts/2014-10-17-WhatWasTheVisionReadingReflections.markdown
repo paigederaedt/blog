@@ -26,6 +26,6 @@ I really liked the analogy of learning to communicate with a computer to being e
 - I've been thinking a lot about why I like math since reading this paper, and I don't know if I can articulate why yet…I was taught what the paper calls 'school math' and I don't feel like I had much of a chance or was encouraged to find relevance to something personal, as the author did with gears. In college, what distinguished math from other classes for me was that it was learning and understanding a process rather then memorizing facts. So why do I like math enough to get a degree in it? I don't quite know.
 
 Check out all the readings:  
-[Mindstorms]({{site.baseurl}}/assets/mindstorms.pdf): Seymour Papert  
+Mindstorms: Seymour Papert  
 [Face to Face: Alan Kay Still Waiting for the Revolution](http://www.scholastic.com/browse/article.jsp?id=5): an interview with Alan Kay  
 [Bicycles for the mind](https://www.youtube.com/watch?v=ob_GX50Za6c): Steve Jobs
