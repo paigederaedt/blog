@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Decentralization and its Discontents [CTOT]"
-date:   2014-10-23 21:43:47
+date:   2014-10-24 21:43:47
 categories: jekyll update
 ---
 Out of all the readings, I liked Protocol and the Bitcoin stuff the best so I'll comment on those.
