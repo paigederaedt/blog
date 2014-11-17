@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Recess day 3 began with a trip to the green roof of the Bronx County Court House. The building itself is really beautiful, but the roof is even more amazing. We just spent some time exploring and even climbing up some ladders to an even higher point on the roof!
 
-![green roof]({{site.baseurl}}/assets/greenroof.JPG)  
+![green roof]({{site.baseurl}}/assets/greenroof.jpg)  
 
 Next we took a ferry to Staten Island. 
 
