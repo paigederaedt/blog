@@ -8,8 +8,8 @@ Zach started off this morning with a class on text processing which I was SUPER 
 
 We finished the day with Ida's first recess field trip. We started off by checking out the remains of some abandoned subway stops that were build using the neumatic system. You can see them if you look out the window on the 6 line.  
 
-![neumatic subway]({{site.baseurl}}/assets/neumaticsubway.jpb)  
+![neumatic subway]({{site.baseurl}}/assets/neumaticsubway.JPG)  
 
 Next we made our way to the New York public library to find out that it was unfortunately closed because of Veteran's day. They have some remains from the neumatic mail system that used to be used in Manhattan. We finished the trip by taking an air tram to Roosevelt Island. Wonder why? They apparently use a neumatic system for their trash. Overall a super fun day with great weather!
 
-![roosevelt island]({{site.baseurl}}/assets/rooseveltisland.jpg)
+![roosevelt island]({{site.baseurl}}/assets/rooseveltisland.JPG)
