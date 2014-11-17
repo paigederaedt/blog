@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Recess Day 3*"
+date:   2014-11-13 21:43:47
+categories: jekyll update
+---
+Recess day 3 began with a trip to the green roof of the Bronx County Court House. The building itself is really beautiful, but the roof is even more amazing. We just spent some time exploring and even climbing up some ladders to an even higher point on the roof!
+
+![green roof]({{site.baseurl}}/assets/greenroof.JPG)  
+
+Next we took a ferry to Staten Island. 
+
+![staten ferry]({{site.baseurl}}/assets/ferrytostaten.JPG)  
+
+Word on the street is that it's a pretty weird place and it wasn't long before we met a strange person at the Maritime museum. We were just popping in as a back up plan to finding an entrance to some underground tunnels and the owner of the museum came up to us and was very weirdly excited that we were there, needing to take all of our zip codes for his records. Once we managed to get out of that conversation we tried a back way into the tunnels but were almost caught. As a last and final resort, we tried going in through a more obvious door in some woods that required buying tickets to a Chinese Scholars garden first. That gave us access to the woods with the door and we made it in! The tunnels were super fun - it's really exhilarating to trespass!
+
+![staten tunnels]({{site.baseurl}}/assets/statentunnels.JPG)
+
+And we even ended up making it to the Chinese Scholars Garden as well:  
+
+![chinese scholars garden]({{site.baseurl}}/assets/chinesescholarsgarden.JPG)
+
+We finished the day looking over the water on the north shore of Staten Island before taking a ferry back:  
+
+![north shore]({{site.baseurl}}/assets/northshore.JPG)  
+![tired ferry]({{site.baseurl}}/assets/tiredferry.JPG)
