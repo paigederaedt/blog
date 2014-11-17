@@ -17,6 +17,7 @@ Next we took a nice long stroll through Red Hook and checked out the Gowanus Can
 Finally, we ended the day at a Leigh Valley barge. This barge celebrates its 100th birthday this year which is so cool! It's been docked in New York for the past 20 years and has served as a museum, performance boat, and home to it's owner who is a professional juggler.
 
 ![leigh valley]({{site.baseurl}}/assets/leighvalley.JPG)  
+
 ![juggling]({{site.baseurl}}/assets/juggling.JPG)
 
 We ended the day relaxing and playing around on some sculptures while waiting for the ferry to take us back to Manhattan.
