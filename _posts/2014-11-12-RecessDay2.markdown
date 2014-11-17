@@ -6,19 +6,19 @@ categories: jekyll update
 ---
 Today was our first full day recess with Ida. Our first stop was the Greenwood cemetery. Ida's friend gave us a tour and taught us a lot about the history of the people buried there, the differnet tomb styles, and the crazy plants originally intended as a small decoration that have taken over a ton of space.
 
-![greenwood cemetery]({{site.baseurl}}/assets/greenwoodcemetery.jpb)  
+![greenwood cemetery]({{site.baseurl}}/assets/greenwoodcemetery.JPG)  
 
-![cemetery tree]({{site.baseurl}}/assets/cemeterytree.jpg)
+![cemetery tree]({{site.baseurl}}/assets/cemeterytree.JPG)
 
 Next we took a nice long stroll through Red Hook and checked out the Gowanus Canal which is heavily polluted...although it really doesn't look too bad.
 
-![gowanus canal]({{site.baseurl}}/assets/gowanuscanal.jpg)  
+![gowanus canal]({{site.baseurl}}/assets/gowanuscanal.JPG)  
 
 Finally, we ended the day at a Leigh Valley barge. This barge celebrates its 100th birthday this year which is so cool! It's been docked in New York for the past 20 years and has served as a museum, performance boat, and home to it's owner who is a professional juggler.
 
-![leigh valley]({{site.baseurl}}/assets/leighvalley.jpg)  
-![juggling]({{site.baseurl}}/assets/juggling.jpg)
+![leigh valley]({{site.baseurl}}/assets/leighvalley.JPG)  
+![juggling]({{site.baseurl}}/assets/juggling.JPG)
 
 We ended the day relaxing and playing around on some sculptures while waiting for the ferry to take us back to Manhattan.
 
-![ikea ferry]({{site.baseurl}}/assets/ikeaferry.jpg)
+![ikea ferry]({{site.baseurl}}/assets/ikeaferry.JPG)
