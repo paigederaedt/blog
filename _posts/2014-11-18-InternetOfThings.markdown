@@ -7,6 +7,8 @@ categories: jekyll update
 I thought the Internet of Things (IoT) was pretty amazing before I read most of the readings for this week. As usual, there's a ton of info I didn't know/hadn't even thought about. Here are a few of my thoughts:
 
 The Epic Struggle of the Internet of Things:  
+>'The reader may be allowed to choose the casing of his smartphone and the brand of his vacuum cleaner, but the digital relation between the two of them is not his decision. He still has a role of sorts, but it’s much like the role he has within Google and Facebook. He gets fantastic services free of charge, and he responds mostly with dropdown menus and checkboxes, while generating data whose uses and values are invisible to him.'
+
 >'They like the slogan Internet of Things because it sounds peaceable and progressive. It disguises the epic struggle over power, money and influence that is about to ensue.'
 
 - Again, didn't really think of all the other considerations like power, money, etc. The IoT marketing does a really good job of emphasizing the cool factor, which makes sense...
