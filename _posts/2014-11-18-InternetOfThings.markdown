@@ -7,7 +7,7 @@ categories: jekyll update
 I thought the Internet of Things (IoT) was pretty amazing before I read most of the readings for this week. As usual, there's a ton of info I didn't know/hadn't even thought about. Here are a few of my thoughts:
 
 The Epic Struggle of the Internet of Things:  
->'They like the slogan “Internet of Things” because it sounds peaceable and progressive. It disguises the epic struggle over power, money and influence that is about to ensue.'
+>'They like the slogan Internet of Things because it sounds peaceable and progressive. It disguises the epic struggle over power, money and influence that is about to ensue.'
 
 - Again, didn't really think of all the other considerations like power, money, etc. The IoT marketing does a really good job of emphasizing the cool factor, which makes sense...
 
@@ -47,7 +47,7 @@ I didn't realize the extent of the IoT until seeing this. The whole alarm clock 
 'I'm Terrified of My New TV': 
 I thought the title was pretty hilarious, and then I read on. I think I may be afraid to turn on my TV too, although the collection of all that data (for my own use) does excite me. Maybe if I was confident that it wasn't too hackable or I could monitor/transfer the data on the TV on my own very easily I would feel more secure. Doesn't seem like that's happening any time soon though...
 
-Check out the readings for this week:
+Check out the readings for this week:  
 [The Epic Struggle of the Internet of Things](http://www.strelka.com/en/press/books/the-epic-struggle-for-the-internet-of-things): Bruce Sterling  
 [Cisco's Internet of Things](http://share.cisco.com/internet-of-things.html)  
 [I'm Terrified of My New TV](http://www.brennancenter.org/analysis/im-terrified-my-new-tv-why-im-scared-turn-thing#): Michael Price  
