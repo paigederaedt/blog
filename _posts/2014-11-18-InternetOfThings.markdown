@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 I thought the Internet of Things (IoT) was pretty amazing before I read most of the readings for this week. As usual, there's a ton of info I didn't know/hadn't even thought about. Here are a few of my thoughts:
 
-'The Epic Struggle of the Internet of Things':
+The Epic Struggle of the Internet of Things:  
 >'They like the slogan “Internet of Things” because it sounds peaceable and progressive. It disguises the epic struggle over power, money and influence that is about to ensue.'
 
 - Again, didn't really think of all the other considerations like power, money, etc. The IoT marketing does a really good job of emphasizing the cool factor, which makes sense...
@@ -39,7 +39,7 @@ I thought the Internet of Things (IoT) was pretty amazing before I read most of 
 
 >'But everything about the Internet of Things that actually works, that functions in real life, is already obsolete. It will leave few visible monuments. If you hold your breath and close your eyes, you can almost see the last of it from here.'
 
--Still having trouble comprehending this.
+- Still having trouble comprehending this.
 
 Cisco's infographic:
 I didn't realize the extent of the IoT until seeing this. The whole alarm clock thing is pretty awesome, but even if I had something like it, I don't know that I would trust it. I'm having a hard time articulating why...I feel like there would always be some human factor that would be missed in terms of judgement. 
