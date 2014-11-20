@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "More image processing and Mushon Zer-Aviv"
+date:   2014-11-19 21:43:47
+categories: jekyll update
+---
+Today Zach continued teaching us image processing with a focus on image statistics. He had us do an exercise where we converted an image to black and white using some threshold and then counted the number of white pixels, found the average position of all the white pixels, and then found the bounding box of all the white pixels. I loved this exercise and really hope he gives us more like this. It was really fun to complete and so satisfying to get it working. He left us with two more tasks aimed towards image processing algorithms: Take an image that has distinct black and white sections and try to count how many white sections are in the image. Next try to draw a boundary around the white sections. I'm excited to work on figuring it out!
+
+Later in the day we had Mushon Zer-Aviv give an artist talk called Experiments in Algorithmic Prejudice where he introduced his project called the [Turing Normalizing Machine](http://mushon.com/tnm/). It's an installation that gives the individual a choice of 4 videos projected on a wall and he/she has to choose the video he/she feels is the most normal. All the videos shown are feeds of different individuals making the same choice. Once the individual chooses the most normal video, his/her video feed is added to the database. The videos are ranked in terms of normalcy in a similar way that the Google page rank algorithm functions. It was really interesting to get more background on Alan Turing as well as learn about all the possible ways prejudice can be baked into data and statistical models.
