@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SCHOOL FOR POETIC COMPUTATION</title>
+    <description>Reflections on my time at the School for Poetic Computation: Fall 2014
+</description>
+    <link>http://paigederaedt.github.io/blog/</link>
+    <atom:link href="http://paigederaedt.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 23 Nov 2014 00:30:37 -0500</pubDate>
+    <lastBuildDate>Sun, 23 Nov 2014 00:30:37 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Preparing for Silent Barn</title>
+        <description>&lt;p&gt;I spent most of the morning finishing up the readings for Allison’s class, where we had a great discussion on privacy and surveillance, but after that, we spent some time preparing our LED throwie examples for Silent Barn. This was so much fun! I really miss working with fabric and sewing and just doing crafty things. Rachel made a fried egg pin, Yuki made a bicycle, and Lauren made a name tag all with LEDs incorporated. Hopefully the kids can get some good inspiration from them at Silent Barn on Sunday!&lt;/p&gt;
+
+&lt;p&gt;Here’s some photos of the hair clip I made without the LEDs (they’ll be added on Sunday!):  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/pinonfloor.jpg&quot; alt=&quot;pin on floor&quot; /&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/pininhair.jpg&quot; alt=&quot;pin in hair&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Nov 2014 16:43:47 -0500</pubDate>
+        <link>http://paigederaedt.github.io/blog/jekyll/update/2014/11/21/SilentBarnPrep.html</link>
+        <guid isPermaLink="true">http://paigederaedt.github.io/blog/jekyll/update/2014/11/21/SilentBarnPrep.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>A much needed studio day and Silent Barn planning</title>
+        <description>&lt;p&gt;I took today as a studio day and was finally able to finish the first iteration of my word particle system! It now takes in typed words and gives them attraction or repulsion forces to each other based on how ‘close’ they are to each other using Levenshtein distance. Nothing too fancy, but I really enjoyed hacking a particle system to make this. There were a lot of little unexpected things that I learned while doing it: dealing with TrueTypeFonts, performance improvements by loading the font to a pointer rather than one time for each word particle, and much more. I’m still having some performance issues with loading in a bunch of words at once, but I’ll play around with it a little more and then ask Zach for some help.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/wordlevdistpart.png&quot; alt=&quot;words lev dist&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We then spent some time planning for Silent Barn with Taeyoon. I am helping Lauren with Rachel and Yuki on an LED throwie table. We’re helping the kids make LED pins with felt. We talked a little about logistics, materials, and what we want to get out of it. I’m mostly excited about making things with my hands again and getting to know a few of the kids. Lauren is going to bring some embroidery thread and other materials tomorrow so we can make some pretty cool examples for inspiration so I’m really excited for that!&lt;/p&gt;
+
+&lt;p&gt;Later on, Taeyoon went and got some food for us to share and we all just chilled and talked about education. It was a super nice way to decompress after a long studio day and spend some quality time with everyone. Rachel was even awarded an honorary non-degree (because she doesn’t need a masters in order to feel accomplished) by Casey.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/caseyandrachel.jpg&quot; alt=&quot;Casey&#39;s degree&quot; /&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/rachelhonorarydegree.jpg&quot; alt=&quot;Rachel with degree&quot; /&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/rachelandtaeyoon.jpg&quot; alt=&quot;Taeyoon laughing&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Nov 2014 16:43:47 -0500</pubDate>
+        <link>http://paigederaedt.github.io/blog/jekyll/update/2014/11/20/StudioSilentBarnPlanning.html</link>
+        <guid isPermaLink="true">http://paigederaedt.github.io/blog/jekyll/update/2014/11/20/StudioSilentBarnPlanning.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>More image processing and Mushon Zer-Aviv</title>
+        <description>&lt;p&gt;Today Zach continued teaching us image processing with a focus on image statistics. He had us do an exercise where we converted an image to black and white using some threshold and then counted the number of white pixels, found the average position of all the white pixels, and then found the bounding box of all the white pixels. I loved this exercise and really hope he gives us more like this. It was really fun to complete and so satisfying to get it working. He left us with two more tasks aimed towards image processing algorithms: Take an image that has distinct black and white sections and try to count how many white sections are in the image. Next try to draw a boundary around the white sections. I’m excited to work on figuring it out!&lt;/p&gt;
+
+&lt;p&gt;Later in the day we had Mushon Zer-Aviv give an artist talk called Experiments in Algorithmic Prejudice where he introduced his project called the &lt;a href=&quot;http://mushon.com/tnm/&quot;&gt;Turing Normalizing Machine&lt;/a&gt;. It’s an installation that gives the individual a choice of 4 videos projected on a wall and he/she has to choose the video he/she feels is the most normal. All the videos shown are feeds of different individuals making the same choice. Once the individual chooses the most normal video, his/her video feed is added to the database. The videos are ranked in terms of normalcy in a similar way that the Google page rank algorithm functions. It was really interesting to get more background on Alan Turing as well as learn about all the possible ways prejudice can be baked into data and statistical models.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Nov 2014 16:43:47 -0500</pubDate>
+        <link>http://paigederaedt.github.io/blog/jekyll/update/2014/11/19/ImgProcMushonZerAviv.html</link>
+        <guid isPermaLink="true">http://paigederaedt.github.io/blog/jekyll/update/2014/11/19/ImgProcMushonZerAviv.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Shaders, gpg, and projection mapping</title>
+        <description>&lt;p&gt;I was originally let down when I walked in this morning to find out that Zach wasn’t going to teach more image processing, but I was definitely thankful that it was pushed back at the end of the day as we were exposed to so much heavy information. It was really nice to be reminded that Zach reads blogs and I was thankful that he asked if he could help me to understand shaders more since I had indicated in my previous blog that I was lost. I probably wouldn’t have felt worthy to ask (since I hadn’t done much research myself first), so thanks Zach for helping me utilize your knowledge! I definitely feel like I understand shaders A LOT better now. It was also super helpful to get his assistance with my word particles code too. I feel like it’s so much closer to how I want it to be now, and I have hope that it will reach my final vision!&lt;/p&gt;
+
+&lt;p&gt;During Allison’s CTOT class, Andrew demoed his &lt;a href=&quot;https://twitter.com/resist_death&quot;&gt;@Resist_Death&lt;/a&gt; IoT creature. Tweeting at it determines whether it will live or die. I really love the idea and can’t wait to see it finished.&lt;/p&gt;
+
+&lt;p&gt;After this, Lauren and Allison led a gpg workshop to show all of us who watched &lt;a href=&quot;http://www.imdb.com/title/tt4044364/&quot;&gt;Citizen Four&lt;/a&gt; how to set up a key and send encrypted emails. Even though I use gmail, it still felt pretty cool to send an encrypted email to someone.&lt;/p&gt;
+
+&lt;p&gt;Lastly, Jonas did a workshop on projection mapping. Upon showing us &lt;a href=&quot;http://www.madmapper.com/&quot;&gt;MadMapper&lt;/a&gt; I had hope that I too could one day do projection mapping. Upon showing us all the work that went into the &lt;a href=&quot;https://vimeo.com/66167082&quot;&gt;Light Leaks&lt;/a&gt; project, I think all is lost for me… I’m mostly kidding, but I was in awe at what it took to make a project like that - truly incredible work and a truly incredible outcome. Nice job Jonas!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 18 Nov 2014 16:43:47 -0500</pubDate>
+        <link>http://paigederaedt.github.io/blog/jekyll/update/2014/11/18/ShadersGPGProjMapping.html</link>
+        <guid isPermaLink="true">http://paigederaedt.github.io/blog/jekyll/update/2014/11/18/ShadersGPGProjMapping.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Privacy and Surveillance [CTOT]</title>
+        <description>&lt;p&gt;This weeks readings focused on privacy and surveillance. These readings, along with Mushon’s talk really makes me think more about how I feel about data, modeling, and all the politics that go into it. Dealing with data, especially personal data which I find very interesting, used to excite me but now I’m kind of having second thoughts…&lt;/p&gt;
+
+&lt;p&gt;‘The Anxieties of Big Data’:  &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘Already,margin-ad-right the lived reality of big data is suffused with a kind of surveillant anxiety — the fear that all the data we are shedding every day is too revealing of our intimate selves but may also misrepresent us. Like a fluorescent light in a dark corridor, it can both show too much and not enough.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;This makes me think about the other day when we looked up Google ad settings, which can tell you what profile of information Google uses to show you ads. I was expecting to be scared given how much I use Google, but then realized that it hardly knew anything about me. It was pretty shockingly wrong… But then I think about the ads I see on Facebook. I can definitely tell they know a good amount of information about me, yet the ads are always just a little off.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘Surveillant anxiety is always a conjoined twin: The anxiety of those surveilled is deeply connected to the anxiety of the surveillers. But the anxiety of the surveillers is generally hard to see; it’s hidden in classified documents and delivered in highly coded languages in front of Senate committees. This is part of why Snowden’s revelations are so startling: They make it possible for us to see the often-obscured concerns of the intelligence agencies. And while there is an enormous structural power asymmetry between the surveillers and surveilled, neither are those with the greatest power free from being haunted by a very particular kind of data anxiety: that no matter how much data they have, it is always incomplete, and the sheer volume can overwhelm the critical signals in a fog of possible correlations.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘These moments demonstrate why the epistemic big-data ambition — to collect it all — is both never-ending and deeply flawed. The bigger the data gets, the more small things can be overlooked. The risk of being seduced by ghost patterns in data increases with the size of the data sets.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I like how these previous two quotes touch on what can be overlooked when the constant goal is more more more. We have so much data, yet look at how much we miss. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘Still, the rapid rise of the term normcore is an indication of how the cultural idea of disappearing has become cool at the very historical moment when it has become almost impossible because of big data and widespread surveillance.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sorry hipsters…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘But being able to “blend in” or “pass” is a very exclusive form of privilege. In the words of Cat Smith, who writes about disability and fashion, “the ‘look of nothing’ is never going to be available to those who are marked as ‘other’ because the world has already placed identifiable markers on us.”’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I never really thought about it like this before, but definitely a very real point. Brings us back to Sara Hendren’s talk again.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘While these tools and techniques of data tracking have now been broadened to ensnare the whole population, their greatest impact is still felt by marginalized communities.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Again bringing us back to the digital divide…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;‘On the Leakiness of Surveillance Culture, the Corporate Gaze, and What That Has To Do With the New Aesthetic’:  &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘surveillance culture is leaky. Primary measurements beget chains of reasoning and implication. Second and third order conclusions can be drawn by clever observers and unintended consequences are the order of the day.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;This one just brings it all together.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Allison asked us to pick a piece of surveillance art and reflect on it. I chose &lt;a href=&quot;http://chess.bitnik.org/about.html&quot;&gt;Surveillance Chess&lt;/a&gt;. This project hacks surveillance cameras in London and exchanges them with a game of chess. I mainly chose this one because it made me laugh. I think it’s interesting how it tries to establish two sided communication by turning the camera into a game console because surveillance is totally one sided.&lt;/p&gt;
+
+&lt;p&gt;Check out the readings for this week:&lt;br /&gt;
+‘Surveillance in America’: Interview with Christian Parenti  &lt;br /&gt;
+&lt;a href=&quot;http://thenewinquiry.com/essays/the-anxieties-of-big-data/&quot;&gt;Anxieties of Big Data&lt;/a&gt;: Kate Crawford&lt;br /&gt;
+&lt;a href=&quot;http://quietbabylon.com/2012/on-the-leakiness-of-surveillance-culture-the-corporate-gaze-and-what-that-has-to-do-with-the-new-aesthetic/&quot;&gt;On the Leakiness of Surveillance Culture, the Corporate Gaze, and What That Has To Do With the New Aesthetic&lt;/a&gt;: Tim Maly&lt;br /&gt;
+&lt;a href=&quot;http://quietbabylon.com/2012/on-the-leakiness-of-surveillance-culture-the-corporate-gaze-and-what-that-has-to-do-with-the-new-aesthetic/&quot;&gt;The Mysterious Disappearance of Phil Agre&lt;/a&gt;: Andy Carvin&lt;br /&gt;
+&lt;a href=&quot;http://www.asounder.org/resources/agre_surveillance.pdf&quot;&gt;Surveillance and Capture: Two Models of Privacy&lt;/a&gt;: Phil Agre  &lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 18 Nov 2014 16:43:47 -0500</pubDate>
+        <link>http://paigederaedt.github.io/blog/jekyll/update/2014/11/18/PrivacyAndSurveillance.html</link>
+        <guid isPermaLink="true">http://paigederaedt.github.io/blog/jekyll/update/2014/11/18/PrivacyAndSurveillance.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>The Internet of Things [CTOT]</title>
+        <description>&lt;p&gt;I thought the Internet of Things (IoT) was pretty amazing before I read most of the readings for this week. As usual, there’s a ton of info I didn’t know/hadn’t even thought about. Here are a few of my thoughts:&lt;/p&gt;
+
+&lt;p&gt;The Epic Struggle of the Internet of Things:  &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘They like the slogan Internet of Things because it sounds peaceable and progressive. It disguises the epic struggle over power, money and influence that is about to ensue.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Again, didn’t really think of all the other considerations like power, money, etc. The IoT marketing does a really good job of emphasizing the cool factor, which makes sense…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘The reader may be allowed to choose the casing of his smartphone and the brand of his vacuum cleaner, but the digital relation between the two of them is not his decision. He still has a role of sorts, but it’s much like the role he has within Google and Facebook. He gets fantastic services free of charge, and he responds mostly with dropdown menus and checkboxes, while generating data whose uses and values are invisible to him.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I like this because it really exposes what little freedom the IoT imposes. I had always thought about IoT as pretty liberating since I’m interested in personal data, but trying to obtain the data and understanding the full breadth of it is way too hard in my opinion.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘It’s clear that today’s Internet of Things isn’t just a techno-revolution; it’s a reaction. It’s not by and for the oppressed, the disruptive, the hungry, the have-nots, the start-ups, the shut-outs. The Internet of Things is very much in the interests of certain groups who can already count themselves among the haves. Many of its architects are clearly inspired by fear – they’re powerful, but afraid to lose the things they already command and control. By intensifying their command and control systems, they hope to maintain their hold. ’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The IoT will emphasize the digital divide even more. Only the most priveleged will have a superficial access to the internet through their things. The idea of power is interesting. Although it seems like the user has more power through this connected device, he/she is instead just making him/herself more vulnerable via data. It’s even a false power as there is no decision about the digital relation as explained above.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘That’s a good idea of what an Internet of Things looks like and feels like. It’s not a novelty fridge that talks, it’s a state of daily affairs that is truly strange and different. It needs to be justly compared to our actual, existent state of affairs. One can’t complain about the vistas of the Internet of Things without comparing it to what we have today, in broad daylight.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘It’s not the newness of the Internet of Things that is bad. Its good and bad aspects are ethical, legal, social, political. They’re human.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bringing everything back down to earth…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘The IoT isn’t a social reform movement, or a source of progress, any more than Amazon, Facebook, Google, Apple and Microsoft are reformers seeking progress. It’s better in some ways, worse in others; mostly, it’s just different. The clues to that future culture are already here.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘Life in the Internet of Things isn’t about buying a smart toaster and keeping it. No: it’s a silent, semi-covert, digitally interactive struggle of baby-knifing and oxygen-stealing.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Yikes…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘The Internet of Things does grant forms of cultural fame and influence, even lavishly, but only when those are channelled and expressed through itself, on its own terms.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Again, a comment on this false illusion of power to the user through IoT.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘But everything about the Internet of Things that actually works, that functions in real life, is already obsolete. It will leave few visible monuments. If you hold your breath and close your eyes, you can almost see the last of it from here.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Still having trouble comprehending this.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cisco’s infographic:
+I didn’t realize the extent of the IoT until seeing this. The whole alarm clock thing is pretty awesome, but even if I had something like it, I don’t know that I would trust it. I’m having a hard time articulating why…I feel like there would always be some human factor that would be missed in terms of judgement. &lt;/p&gt;
+
+&lt;p&gt;‘I’m Terrified of My New TV’: 
+I thought the title was pretty hilarious, and then I read on. I think I may be afraid to turn on my TV too, although the collection of all that data (for my own use) does excite me. Maybe if I was confident that it wasn’t too hackable or I could monitor/transfer the data on the TV on my own very easily I would feel more secure. Doesn’t seem like that’s happening any time soon though…&lt;/p&gt;
+
+&lt;p&gt;Check out the readings for this week:&lt;br /&gt;
+&lt;a href=&quot;http://www.strelka.com/en/press/books/the-epic-struggle-for-the-internet-of-things&quot;&gt;The Epic Struggle of the Internet of Things&lt;/a&gt;: Bruce Sterling&lt;br /&gt;
+&lt;a href=&quot;http://share.cisco.com/internet-of-things.html&quot;&gt;Cisco’s Internet of Things&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.brennancenter.org/analysis/im-terrified-my-new-tv-why-im-scared-turn-thing#&quot;&gt;I’m Terrified of My New TV&lt;/a&gt;: Michael Price&lt;br /&gt;
+&lt;a href=&quot;http://www.technologyreview.com/featuredstory/520431/driverless-cars-are-further-away-than-you-think/&quot;&gt;Driverless Cars are Further Away than You Think&lt;/a&gt;: Will Knight&lt;br /&gt;
+&lt;a href=&quot;http://www.informationweek.com/government/big-data-analytics/internet-of-things-intrigues-intelligence-community/d/d-id/1316025&quot;&gt;The Internet of Things Intrigues the Intelligence Community&lt;/a&gt;: Patience Wait&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 18 Nov 2014 16:43:47 -0500</pubDate>
+        <link>http://paigederaedt.github.io/blog/jekyll/update/2014/11/18/InternetOfThings.html</link>
+        <guid isPermaLink="true">http://paigederaedt.github.io/blog/jekyll/update/2014/11/18/InternetOfThings.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Image generation, processing, and shaders</title>
+        <description>&lt;p&gt;Zach led a session on image generation and manipulation today. Like all his classes, the techniques are super fun. I do feel like I have a little bit of a block in terms of image generation right now. I can’t really get behavior that I’m looking for, but I know that will just come with practice. I’m really excited to try out image manipulation though. It’d be really awesome to do something with image manipulation and text. I was thinking about manipulating images of a picture book based on the text on the page - maybe pick a classic children’s book? &lt;/p&gt;
+
+&lt;p&gt;Here’s a few examples of some images I generated today:  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/imggen1.png&quot; alt=&quot;img gen 1&quot; /&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/imggen2.png&quot; alt=&quot;img gen 2&quot; /&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/imggen3.png&quot; alt=&quot;img gen 3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After lunch, Ramsey spent some time with us on shaders. I still feel completely lost to how they work to be honest, but I think I just need more context. All I know is that they can create some pretty awesomely efficient visuals in terms of computation. They’re also apparently the future of programming! Better get on that…&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Nov 2014 16:43:47 -0500</pubDate>
+        <link>http://paigederaedt.github.io/blog/jekyll/update/2014/11/17/ImgGenProcShaders.html</link>
+        <guid isPermaLink="true">http://paigederaedt.github.io/blog/jekyll/update/2014/11/17/ImgGenProcShaders.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Final Recess Day*</title>
+        <description>&lt;p&gt;The last day of recess ended at the Siempre Verde garden. This is an urban garden run by members of the community. It’s super close to SFPC and most probably wouldn’t notice it when just walking by, but it really is a beautiful space. We had a gardener who put a lot of work into preserving the land for the garden speak about all the trouble one has to go through to preserve a space like this in the city from being developed over. A super interesting and inspiring story and a great way to end the last recess.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/siempreverdegarden.jpg&quot; alt=&quot;siempre verde garden&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Nov 2014 16:43:47 -0500</pubDate>
+        <link>http://paigederaedt.github.io/blog/jekyll/update/2014/11/15/FinalRecess.html</link>
+        <guid isPermaLink="true">http://paigederaedt.github.io/blog/jekyll/update/2014/11/15/FinalRecess.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Recess Day 3*</title>
+        <description>&lt;p&gt;Recess day 3 began with a trip to the green roof of the Bronx County Court House. The building itself is really beautiful, but the roof is even more amazing. We just spent some time exploring and even climbing up some ladders to an even higher point on the roof!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/greenroof.jpg&quot; alt=&quot;green roof&quot; /&gt;  &lt;/p&gt;
+
+&lt;p&gt;Next we took a very cold ferry to Staten Island. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/ferrytostaten.JPG&quot; alt=&quot;staten ferry&quot; /&gt;  &lt;/p&gt;
+
+&lt;p&gt;Word on the street is that it’s a pretty weird place and it wasn’t long before we met a strange person at the Maritime museum. We were just popping in as a back up plan to finding an entrance to some underground tunnels and the owner of the museum came up to us and was very weirdly excited that we were there, needing to take all of our zip codes for his records. Once we managed to get out of that conversation we tried a back way into the tunnels but were almost caught. As a last and final resort, we tried going in through a more obvious door in some woods that required buying tickets to a Chinese Scholars garden first. That gave us access to the woods with the door and we made it in! The tunnels were super fun - it’s really exhilarating to trespass!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/statentunnels.JPG&quot; alt=&quot;staten tunnels&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And we even ended up making it to the Chinese Scholars Garden as well:  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/chinesescholarsgarden.JPG&quot; alt=&quot;chinese scholars garden&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We finished the day looking over the water on the north shore of Staten Island before taking a ferry back:  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/northshore.JPG&quot; alt=&quot;north shore&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/blog/assets/tiredferry.JPG&quot; alt=&quot;tired ferry&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Nov 2014 16:43:47 -0500</pubDate>
+        <link>http://paigederaedt.github.io/blog/jekyll/update/2014/11/13/RecessDay3.html</link>
+        <guid isPermaLink="true">http://paigederaedt.github.io/blog/jekyll/update/2014/11/13/RecessDay3.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Recess Day 2*</title>
+        <description>&lt;p&gt;Today was our first full day recess with Ida. Our first stop was the Greenwood cemetery. Ida’s friend gave us a tour and taught us a lot about the history of the people buried there, the differnet tomb styles, and the crazy plants originally intended as a small decoration that have taken over a ton of space.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/greenwoodcemetery.JPG&quot; alt=&quot;greenwood cemetery&quot; /&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/cemeterytree.JPG&quot; alt=&quot;cemetery tree&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next we took a nice long stroll through Red Hook and checked out the Gowanus Canal which is heavily polluted…although it really doesn’t look too bad.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/gowanuscanal.JPG&quot; alt=&quot;gowanus canal&quot; /&gt;  &lt;/p&gt;
+
+&lt;p&gt;Finally, we ended the day at a Leigh Valley barge. This barge celebrates its 100th birthday this year which is so cool! It’s been docked in New York for the past 20 years and has served as a museum, performance boat, and home to it’s owner who is a professional juggler.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/leighvalley.JPG&quot; alt=&quot;leigh valley&quot; /&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/juggling.JPG&quot; alt=&quot;juggling&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We ended the day relaxing and playing around on some sculptures while waiting for the ferry to take us back to Manhattan.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/ikeaferry.JPG&quot; alt=&quot;ikea ferry&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Nov 2014 16:43:47 -0500</pubDate>
+        <link>http://paigederaedt.github.io/blog/jekyll/update/2014/11/12/RecessDay2.html</link>
+        <guid isPermaLink="true">http://paigederaedt.github.io/blog/jekyll/update/2014/11/12/RecessDay2.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
