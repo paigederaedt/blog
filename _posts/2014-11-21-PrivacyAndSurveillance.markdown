@@ -39,7 +39,7 @@ This weeks readings focused on privacy and surveillance. These readings, along w
 Allison asked us to pick a piece of surveillance art and reflect on it. I chose [Surveillance Chess](http://chess.bitnik.org/about.html). This project hacks surveillance cameras in London and exchanges them with a game of chess. I mainly chose this one because it made me laugh. I think it's interesting how it tries to establish two sided communication by turning the camera into a game console because surveillance is totally one sided.
 
 Check out the readings for this week:  
-'Surveillance in America': Interview with Christian Parenti  
+'Surveillance in America': Interview with Christian Parenti    
 [Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/): Kate Crawford  
 [On the Leakiness of Surveillance Culture, the Corporate Gaze, and What That Has To Do With the New Aesthetic](http://quietbabylon.com/2012/on-the-leakiness-of-surveillance-culture-the-corporate-gaze-and-what-that-has-to-do-with-the-new-aesthetic/): Tim Maly  
 [The Mysterious Disappearance of Phil Agre](http://quietbabylon.com/2012/on-the-leakiness-of-surveillance-culture-the-corporate-gaze-and-what-that-has-to-do-with-the-new-aesthetic/): Andy Carvin  

@@ -8,5 +8,6 @@ I spent most of the morning finishing up the readings for Allison's class, where
 
 Here's some photos of the hair clip I made without the LEDs (they'll be added on Sunday!):  
 
-![pin on floor]({{site.baseurl}}/assets/pinonfloor.jpg)
+![pin on floor]({{site.baseurl}}/assets/pinonfloor.jpg)  
+
 ![pin in hair]({{site.baseurl}}/assets/pininhair.jpg)
