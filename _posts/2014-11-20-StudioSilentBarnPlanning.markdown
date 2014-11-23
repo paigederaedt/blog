@@ -12,6 +12,8 @@ We then spent some time planning for Silent Barn with Taeyoon. I am helping Laur
 
 Later on, Taeyoon went and got some food for us to share and we all just chilled and talked about education. It was a super nice way to decompress after a long studio day and spend some quality time with everyone. Rachel was even awarded an honorary non-degree (because she doesn't need a masters in order to feel accomplished) by Casey.
 
-![Casey's degree]({{site.baseurl}}/assets/rachelandcasey.jpg)
-![Rachel with degree]({{site.baseurl}}/assets/rachelhonorarydegree.jpg)
+![Casey's degree]({{site.baseurl}}/assets/caseyandrachel.jpg)  
+
+![Rachel with degree]({{site.baseurl}}/assets/rachelhonorarydegree.jpg)  
+
 ![Taeyoon laughing]({{site.baseurl}}/assets/rachelandtaeyoon.jpg)
