@@ -10,6 +10,6 @@ github_username:  paigederaedt
 
 # pagnation
 paginate: 10
-paginate_path: "{{site.baseurl}}/page:num/"
+paginate_path: "/page:num/"
 # Build settings
 markdown: kramdown
