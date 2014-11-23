@@ -26,7 +26,7 @@ layout: default
 
   <h2><div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">PREVIOUS</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">PREVIOUS</a>
   {% else %}
     <span class="previous">PREVIOUS</span>
   {% endif %}
@@ -36,7 +36,7 @@ layout: default
   <span class="page_number "> | </span>
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">NEXT</a></h2>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">NEXT</a></h2>
   {% else %}
     <span class="next ">NEXT</span>
 
