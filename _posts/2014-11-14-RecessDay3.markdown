@@ -22,5 +22,5 @@ And we even ended up making it to the Chinese Scholars Garden as well:
 
 We finished the day looking over the water on the north shore of Staten Island before taking a ferry back:  
 
-![north shore]({{site.baseurl}}/assets/northshore.JPG)  
-![tired ferry]({{site.baseurl}}/assets/tiredferry.JPG)
+![north shore]({{site.baseurl}}/assets/northshore.jpg)  
+![tired ferry]({{site.baseurl}}/assets/tiredferry.jpg)

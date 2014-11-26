@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Silent Barn"
+title:  "Poetic Science Fair at Silent Barn"
 date:   2014-11-23 21:43:47
 categories: jekyll update
 ---
