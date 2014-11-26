@@ -10,9 +10,9 @@ After lunch, [Sha Hwang](http://postarchitectural.com/) came and spoke about his
 
 At the end of the day, we had another artist talk by [Joanie Lemercier](http://joanielemercier.com/). He does a lot of really awesome work with light and projection mapping. His work that most impressed me was [Nimbes](http://joanielemercier.com/nimbes/). After his talk, he invited us all back to a gallery to see a show he had curated and also has works in called [Bright Matter](http://www.bright-matter.com/). It was nice to see a few more of his pieces in person and hear a little more about the intention and work that went into their creation. There was also this really awesome light sculpture piece that just looked like a box with mirrors from the sides, but upon looking in, the space expanded in crazy ways and it felt like you were inside a much larger world inside a tiny box.
 
-![light box1]({{site.baseurl}}/assets/lightbox1.jpg)  
+![light box1]({{site.baseurl}}/assets/lightbox1.png)  
 
-![light box2]({{site.baseurl}}/assets/lightbox2.jpg)  
+![light box2]({{site.baseurl}}/assets/lightbox2.png)  
 
-<img src="http://paigederaedt.github.io/blog/assets/lightbox1.jpg" alt="light box1" class="rotate90" style="width:364px">
-<img src="http://paigederaedt.github.io/blog/assets/lightbox2.jpg" alt="light box2" style="width:363px"> 
+<img src="http://paigederaedt.github.io/blog/assets/lightbox1.png" alt="light box1" style="width:364px">
+<img src="http://paigederaedt.github.io/blog/assets/lightbox2.png" alt="light box2" style="width:363px"> 
