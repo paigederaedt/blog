@@ -20,6 +20,6 @@ Helping out with the Poetic Science Fair at Silent Barn was so much fun. Lauren,
 <img src="http://paigederaedt.github.io/blog/assets/frogled.jpg" alt="frog led" style="width:364px">
 <img src="http://paigederaedt.github.io/blog/assets/flowerled.jpg" alt="flower led" style="width:363px">  
 
-<img src="http://paigederaedt.github.io/blog/assets/yukimanled.png" alt="man led" style="width:600px">
-<img src="http://paigederaedt.github.io/blog/assets/poeticsciencefair.png" alt="poetic science fair" style="width:120px">  
+<img src="http://paigederaedt.github.io/blog/assets/yukimanled.png" alt="man led" style="width:400px">
+<img src="http://paigederaedt.github.io/blog/assets/poeticsciencefair.png" alt="poetic science fair" style="width:320px">  
 
