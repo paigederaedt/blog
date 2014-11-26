@@ -8,8 +8,8 @@ Helping out with the Poetic Science Fair at Silent Barn was so much fun. Lauren,
 
 ![silent barn pano]({{site.baseurl}}/assets/silentbarnpano.png)  
 
-<img src="http://paigederaedt.github.io/blog/assets/binarycardgame.png" alt="binary card game" style="width:350px">
-<img src="http://paigederaedt.github.io/blog/assets/drawingrobots.png" alt="drawing robots" style="width:350px"> 
+<img src="http://paigederaedt.github.io/blog/assets/binarycardgame.png" alt="binary card game" style="width:360px">
+<img src="http://paigederaedt.github.io/blog/assets/drawingrobots.png" alt="drawing robots" style="width:360px"> 
  
 <img src="http://paigederaedt.github.io/blog/assets/poetryjam.png" alt="poetry jam" style="width:350px">
 <img src="http://paigederaedt.github.io/blog/assets/lightjewelryprep.jpg" alt="light jewelry" style="width:350px">  
