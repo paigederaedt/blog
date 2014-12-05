@@ -12,4 +12,8 @@ Today was our second studio day. We started with a stand up style check in on th
 
 After this we listed to Zan demo a talk she is doing in November about Simpson's paradox. She demoed a new chart style she created with [Martin Wattenberg](http://www.bewitched.com/) to better visualize data so that this effect becomes more apparent. The paper that the talk about can be found [here](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42901.pdf) 
 
-The rest of the day was pretty standard studio...just continued to work on creating my circos visualization in d3.
+The rest of the day was pretty standard studio...just continued to work on creating my circos visualization in d3. 
+
+Here's a semi-finished product!:  
+
+<iframe src="//player.vimeo.com/video/113674215" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/113674215">Letter transitions of School for Poetic Computation text</a> from <a href="http://vimeo.com/user24782802">Paige DeRaedt</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

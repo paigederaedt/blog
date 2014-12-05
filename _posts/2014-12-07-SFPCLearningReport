@@ -25,28 +25,46 @@ I don't know that I can begin to quantify how much I've learned at SFPC. It has 
 
 What are some things you created during the school? Please provide a brief description and a link. 
 
-I came into SFPC with a project inspired by Martin Kryswinski’s [work](http://mkweb.bcgsc.ca/pi/art/) where he visualizes the number pi by looking at the transition sequence of pi’s digits after the decimal place. I thought it may be interesting to visualize the sequence of letters in text. I originally used circos for the visualization that produces a static output, but have since worked on animating it using d3. To gain a little more background on the intentions and ideas behind this and directions of other work at SFPC, check out my [blog post](http://paigederaedt.github.io/blog/jekyll/update/2014/10/17/TimeWithSara.html).
+Binary games: http://paigederaedt.github.io/blog/jekyll/update/2014/10/02/BinaryNumbers.html  
 
-The next few explorations were a result of Zach Lieberman’s assignments to ‘jam’ after some classes on: 
-Animation:
-John Whitney inspired animation
-We were also asked to animate a ‘creature’. I animated what kind of turned out to act like a family of butterflies, although that wasn’t the original intention.
-Particle systems: 
-My word particles experiment is further exploring my interest in text and code. I thought it would be cool to experiment with particle systems of words and manipulate the forces between them based on linguistic properties. My first iteration uses forces based on Levenshtein distance.
-Image generation and manipulation:
-And openGL:
-Sphere viz
+*Recreation of circle visualization in d3: http://paigederaedt.github.io/blog/jekyll/update/2014/10/14/SecondStudioDay.html  
 
-I also created an LED pin as an example for our Silent Barn Poetic Science Fair workshop. Lately, making this has really inspired me to think about how my love for being crafty can be combined with technology in interesting ways, maybe wearables?
+Crochet/knitting workshop: http://paigederaedt.github.io/blog/jekyll/update/2014/10/13/CrochetKnittingWorkshop.html  
+
+Puzzlescript game: http://www.puzzlescript.net/play.html?p=0a701006213ee1a496a8 and http://paigederaedt.github.io/blog/jekyll/update/2014/10/22/BlogPuzzleScript.html  
+
+*John Whitney animation: http://paigederaedt.github.io/blog/jekyll/update/2014/10/30/SpeakerCircuits.html  
+
+*Creature animation: http://paigederaedt.github.io/blog/jekyll/update/2014/10/30/SpeakerCircuits.html  
+
+*Word particle system: http://paigederaedt.github.io/blog/jekyll/update/2014/11/20/StudioSilentBarnPlanning.html  
+
+Image generation: http://paigederaedt.github.io/blog/jekyll/update/2014/11/17/ImgGenProcShaders.html  
+
+Poetic Science Fair at Silent Barn: http://paigederaedt.github.io/blog/jekyll/update/2014/11/23/SilentBarn.html  
+
+3D sketches: 
+Cat 'hardware':
+Shader sketches: 
+This blog!
+
 
 
 What questions are you leaving the school with?  What questions did you come in with?
 
 The main question I’m leaving the school with is how can I keep doing what I’m doing at SFPC? Before SFPC I graduated from undergrad and got a job at a startup that did a lot of work with computational linguistics and natural language processing. I really loved working there, but they unfortunately failed after about 4 months. I ended up with a more ‘traditional’ job as an analyst at Citrix, but I was pretty unhappy in the corporate world. SFPC has been a stark and refreshing contrast. I remember telling Casey, our admin, about halfway through the 10 weeks that I didn’t want to go back to a traditional job, or at least a job like I had in the past. How can I find the type of learning and openness to experimentation my future career? Can I be fulfilled with a traditional job? Is freelance or returning to school the best option? 
 
-More specific to my interests: How can I combine my interest with language, text, and code with my interest in sewing and crocheting? My math/stats background lends itself to data visualization – how can I fit that in?
+More specific to my interests: How can I combine my interest with language, text, and code with my interest in sewing and crocheting? My math/stats background lends itself to data visualization – how can I fit that in? Can I mix fashion and data visualization?
 
 Questions I came in with mostly focused on how I can combine by learned math/stats background with my passion for art and being crafty. I think SFPC has given me a short term glance into how this can happen, but now I need a long term execution plan.
 
 
 What would you tell the person you were a year ago?
+
+A year ago I had just accepted a job offer at Citrix, and I wasn’t too happy about it. I don’t know if I’ve been more satisfied with what I’m doing in my life than I have been at SFPC. So I would tell the person I was a year ago to only take on opportunities that you’re passionate about, even if it seems risky or if its something you feel as if you know nothing about. I felt like accepting a spot at SFPC was a career risk, and maybe it is, but I’ve learned so much about myself and what I really enjoy doing. I can’t imagine doing anything different now. 
+
+Here’s a few words of wisdom from Zach and Taeyoon that I’d also like to tell my year ago self:
+Program like your parents aren’t in the car with you. – wisdom from Zach
+Don’t ask for permission. (In the context of scraping vs using APIs) – wisdom from Zach
+Do things, hang out with people, you don’t know what can come out of it. – wisdom from Taeyoon
+
