@@ -16,4 +16,4 @@ The rest of the day was pretty standard studio...just continued to work on creat
 
 Here's a semi-finished product!:  
 
-<iframe src="//player.vimeo.com/video/113674215" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/113674215">Letter transitions of School for Poetic Computation text</a> from <a href="http://vimeo.com/user24782802">Paige DeRaedt</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="//player.vimeo.com/video/113674215" width="800" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/113674215">Letter transitions of School for Poetic Computation text</a> from <a href="http://vimeo.com/user24782802">Paige DeRaedt</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
