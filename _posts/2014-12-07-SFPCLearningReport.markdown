@@ -32,8 +32,8 @@ What are some things you created during the school? Please provide a brief descr
 * [Recreation of circle visualization in d3](http://paigederaedt.github.io/blog/jekyll/update/2014/10/14/SecondStudioDay.html)  
 * [Crochet/knitting workshop](http://paigederaedt.github.io/blog/jekyll/update/2014/10/13/CrochetKnittingWorkshop.html)  
 * [Puzzlescript game](http://www.puzzlescript.net/play.html?p=0a701006213ee1a496a8), also [here](http://paigederaedt.github.io/blog/jekyll/update/2014/10/22/BlogPuzzleScript.html)  
-* [John Whitney animation](http://paigederaedt.github.io/blog/jekyll/update/2014/10/30/SpeakerCircuits.html)  
-* [Creature animation](http://paigederaedt.github.io/blog/jekyll/update/2014/10/30/SpeakerCircuits.html)  
+* [John Whitney animation](http://paigederaedt.github.io/blog/jekyll/update/2014/10/30/SpeakerCircuitsAndAnimation.html)  
+* [Creature animation](http://paigederaedt.github.io/blog/jekyll/update/2014/10/30/SpeakerCircuitsAndAnimation.html)  
 * [Word particle system](http://paigederaedt.github.io/blog/jekyll/update/2014/11/20/StudioSilentBarnPlanning.html)  
 * [Image generation](http://paigederaedt.github.io/blog/jekyll/update/2014/11/17/ImgGenProcShaders.html)  
 * [Poetic Science Fair at Silent Barn](http://paigederaedt.github.io/blog/jekyll/update/2014/11/23/SilentBarn.html)  
@@ -56,10 +56,10 @@ Questions I came in with mostly focused on how I can combine by learned math/sta
 
 What would you tell the person you were a year ago?
 
-I don’t know if I’ve been more satisfied with what I’m doing in my life than I have been at SFPC. So I would tell the person I was a year ago to only take on opportunities that you’re passionate about, even if it seems risky or if its something you feel as if you know nothing about. I felt like accepting a spot at SFPC was a career risk, and maybe it is, but I’ve learned so much about myself and what I really enjoy doing. I can’t imagine doing anything different now. 
+I don’t know if I’ve been more satisfied with what I’m doing in my life than I have been at SFPC. So I would tell the person I was a year ago to only take on opportunities that you’re passionate about, even if it seems risky or if its something you feel as if you know nothing about. I felt like accepting a spot at SFPC was a career risk, but I’ve learned so much about myself and what I really enjoy doing. I can’t imagine doing anything different now. 
 
-Here’s a few words of wisdom from Zach and Taeyoon that I’d also like to tell my year ago self (these are not direct quotes, just mainly what I interpreted):
-Program like your parents aren’t in the car with you. – wisdom from Zach
-Don’t ask for permission. (In the context of scraping vs using APIs) – wisdom from Zach
-Do things, hang out with people, you don’t know what can come out of it. – wisdom from Taeyoon
+Here’s a few words of wisdom from Zach and Taeyoon that I’d also like to tell my year ago self (these are not direct quotes, just mainly what I interpreted):  
+Program like your parents aren’t in the car with you. – wisdom from Zach  
+Don’t ask for permission. (In the context of scraping vs using APIs) – wisdom from Zach  
+Do things, hang out with people, you don’t know what can come out of it. – wisdom from Taeyoon  
 
