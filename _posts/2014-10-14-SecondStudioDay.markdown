@@ -21,6 +21,7 @@ Here's a semi-finished product!:
 I managed to get it animated. In the background, I have the list of words that contain each letter connected to each chord segment, but I need to figure out how to display them as well when you hover over.
 
 A few more ideas I had were:  
+
 * for a more static visualization, be able to choose a sequence of n letters and iterate around the circle. I could maybe do this by constructing and array of letter tuple frequencies - each word will have it's own letter tuple frequency array associated with it. Then for each word, check if the selected tuple has a nonzero entry in its frequency array-->realized I need a way to access more letters so that you're not limited to tuples...??  
 
 * have text read to you/move across screen while the circle viz is drawn out live, line by line. Maybe have ceratin lines different colors based on sentiment or define drawing motion based on sentiment. Maybe the whole visualization morphs through time based on cumulative sentiment?  
