@@ -19,11 +19,12 @@ As a way of summarizing and sharing our experiences at SFPC, we've been asked to
 
 Here are the few I've chosen to reflect on:
 
-What are some of your memorable learning experiences at the school? 
+WHAT ARE SOME OF YOUR MEMORABLE LEARNING EXPERIENCES AT THE SCHOOL?  
 
 I don't know that I can begin to quantify how much I've learned at SFPC. It has been one of the richest experiences I've had to date. Although I've been exposed to countless new technologies and tools to play with, my most memorable learning experiences have been those that weren’t technical, which really surprised me as I was reflecting on the answer to this question. I gained confidence in being forced to present work at our welcome party in front of a ton of people. I gained perspective in learning how much time goes into all these amazing projects we’re exposed to through our teachers and artist talks. It’s okay to start from a foreign place. It’s okay that it doesn’t work out - look at a failed direction as a new inspiration. I gained strength in my ideas through encouragement, reflection, and stimulation. I’ve been humbled over and over again by the talented students I’m surrounded by, and I’ve really enjoyed the few times I’ve (hopefully) been able to help them. I’ve truly loved learning for the sake of learning and I know what I want education to be. 
 
-What are some things you created during the school? Please provide a brief description and a link. 
+
+WHAT ARE SOME THINGS YOU CREATED DURING THE SCHOOL? PLEASE PROVIDE A BRIEF DESCRIPTION AND A LINK.  
 
 (Descriptions can be found in linked posts)
 
@@ -45,7 +46,7 @@ What are some things you created during the school? Please provide a brief descr
 All videos can also be found on my Vimeo [channel](https://vimeo.com/paigederaedt).
 
 
-What questions are you leaving the school with?  What questions did you come in with?
+WHAT QUESTIONS ARE YOU LEAVING THE SCHOOL WITH? WHAT QUESTIONS DID YOU COME IN WITH?  
 
 The main question I’m leaving the school with is how can I keep doing what I’m doing at SFPC? Before SFPC I graduated from undergrad and got a job at a startup that did a lot of work with computational linguistics and natural language processing. I really loved working there, but they unfortunately failed after about 4 months. I've also had experience in a more corporate setting, but I've had trouble finding what the best fit is for me. SFPC has been a stark and refreshing contrast to everything I've done in the past. I remember telling Casey, our admin, about halfway through the 10 weeks that I didn’t think I wanted to go back to a traditional job, or at least a job like I had in the past. How can I find the type of learning and openness to experimentation in my future career? Can I be fulfilled with a 'traditional' job? Is freelance or returning to school the best option? 
 
@@ -54,7 +55,7 @@ More specific to my interests: How can I combine my interest with language, text
 Questions I came in with mostly focused on how I can combine by learned math/stats background with my passion for art and being crafty. I think SFPC has given me a short term glance into how this can happen, but now I need a long term execution plan.
 
 
-What would you tell the person you were a year ago?
+WHAT WOULD YOU TELL THE PERSON YOU WERE A YEAR AGO?  
 
 I don’t know if I’ve been more satisfied with what I’m doing in my life than I have been at SFPC. So I would tell the person I was a year ago to only take on opportunities that you’re passionate about, even if it seems risky or if its something you feel as if you know nothing about. I felt like accepting a spot at SFPC was a career risk, but I’ve learned so much about myself and what I really enjoy doing. I can’t imagine doing anything different now. 
 
