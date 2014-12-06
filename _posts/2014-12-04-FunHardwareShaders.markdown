@@ -11,3 +11,5 @@ This afternoon started with another hardware class from Taeyoon. His idea for us
 Later on, Jason Levine led an intro to Shaders class which so much fun. Shaders feel so much more accessible to me on a technical level now (my mind is still churning through them conceptually). Here's a few examples of what I made in class:
 
 <iframe src="//player.vimeo.com/video/113674594" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+
+

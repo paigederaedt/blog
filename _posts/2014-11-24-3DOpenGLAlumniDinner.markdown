@@ -14,7 +14,7 @@ Today Zach taught us about drawing and animating in 3D using nodes and meshes. H
 
 <iframe src="//player.vimeo.com/video/113767712" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 
-
+<iframe src="//player.vimeo.com/video/113770384" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 
 Tega organized a dinner with New Inc and SFPC alumni later on. We all joined in to help cook what turned out to be a really awesome vegetable curry. It was nice to hang out and chat after a long day with students and friends of SFPC.
 
