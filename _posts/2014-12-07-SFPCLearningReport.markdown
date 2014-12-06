@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My SFPC learning report"
-date:   2014-12-07 21:43:47
+date:   2014-12-05 21:43:47
 categories: jekyll update
 ---
 As a way of summarizing and sharing our experiences at SFPC, we've been asked to complete a learning report by answering 4 of the following questions in 200 words or less:  
@@ -28,6 +28,7 @@ What are some things you created during the school? Please provide a brief descr
 (Descriptions can be found in linked posts)
 
 * [Binary games](http://paigederaedt.github.io/blog/jekyll/update/2014/10/02/BinaryNumbers.html)  
+* [Cat in paper.js](http://paigederaedt.github.io/blog/jekyll/update/2014/10/03/ToolsIntro.html)  
 * [Recreation of circle visualization in d3](http://paigederaedt.github.io/blog/jekyll/update/2014/10/14/SecondStudioDay.html)  
 * [Crochet/knitting workshop](http://paigederaedt.github.io/blog/jekyll/update/2014/10/13/CrochetKnittingWorkshop.html)  
 * [Puzzlescript game](http://www.puzzlescript.net/play.html?p=0a701006213ee1a496a8), also [here](http://paigederaedt.github.io/blog/jekyll/update/2014/10/22/BlogPuzzleScript.html)  
@@ -36,9 +37,9 @@ What are some things you created during the school? Please provide a brief descr
 * [Word particle system](http://paigederaedt.github.io/blog/jekyll/update/2014/11/20/StudioSilentBarnPlanning.html)  
 * [Image generation](http://paigederaedt.github.io/blog/jekyll/update/2014/11/17/ImgGenProcShaders.html)  
 * [Poetic Science Fair at Silent Barn](http://paigederaedt.github.io/blog/jekyll/update/2014/11/23/SilentBarn.html)  
-* * [3D sketches](http://paigederaedt.github.io/blog/jekyll/update/2014/11/24/3DOpenGLAlumniDinner.html)
-* * [Cat 'hardware']()
-* * [Shader sketches]() 
+* [3D sketches](http://paigederaedt.github.io/blog/jekyll/update/2014/11/24/3DOpenGLAlumniDinner.html)
+* [Cat 'hardware'](http://paigederaedt.github.io/blog/jekyll/update/2014/12/04/FunHardwareShaders.html)
+* [Shader sketches](http://paigederaedt.github.io/blog/jekyll/update/2014/12/04/FunHardwareShaders.html) 
 * This blog!
 
 All videos can also be found on my Vimeo [channel](https://vimeo.com/paigederaedt).
@@ -46,7 +47,7 @@ All videos can also be found on my Vimeo [channel](https://vimeo.com/paigederaed
 
 What questions are you leaving the school with?  What questions did you come in with?
 
-The main question I’m leaving the school with is how can I keep doing what I’m doing at SFPC? Before SFPC I graduated from undergrad and got a job at a startup that did a lot of work with computational linguistics and natural language processing. I really loved working there, but they unfortunately failed after about 4 months. I've also had experience in a more corporate setting, but I've had trouble finding what the best fit is for me. SFPC has been a stark and refreshing contrast to everything I've done in the past. I remember telling Casey, our admin, about halfway through the 10 weeks that I didn’t want to go back to a traditional job, or at least a job like I had in the past. How can I find the type of learning and openness to experimentation my future career? Can I be fulfilled with a 'traditional' job? Is freelance or returning to school the best option? 
+The main question I’m leaving the school with is how can I keep doing what I’m doing at SFPC? Before SFPC I graduated from undergrad and got a job at a startup that did a lot of work with computational linguistics and natural language processing. I really loved working there, but they unfortunately failed after about 4 months. I've also had experience in a more corporate setting, but I've had trouble finding what the best fit is for me. SFPC has been a stark and refreshing contrast to everything I've done in the past. I remember telling Casey, our admin, about halfway through the 10 weeks that I didn’t think I wanted to go back to a traditional job, or at least a job like I had in the past. How can I find the type of learning and openness to experimentation in my future career? Can I be fulfilled with a 'traditional' job? Is freelance or returning to school the best option? 
 
 More specific to my interests: How can I combine my interest with language, text, and code with my interest in sewing and crocheting? My math/stats background lends itself to data visualization – how can I fit that in? Can I mix fashion and data visualization?
 
