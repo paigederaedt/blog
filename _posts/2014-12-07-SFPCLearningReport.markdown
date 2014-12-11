@@ -63,4 +63,3 @@ Here’s a few words of wisdom from Zach and Taeyoon that I’d also like to tel
 Program like your parents aren’t in the car with you. – wisdom from Zach  
 Don’t ask for permission. (In the context of scraping vs using APIs) – wisdom from Zach  
 Do things, hang out with people, you don’t know what can come out of it. – wisdom from Taeyoon  
-
